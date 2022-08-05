@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ismael Flores",
+      "empresa": "Dev",
+      "email": "ismael@gmail.com",
+      "telefono": "123456789",
+      "notas": "notas",
+      "id": 1
+    },
+    {
+      "nombre": "Ale Pacheco",
+      "empresa": "Bombon",
+      "email": "ale@gmail.com",
+      "telefono": "123456789",
+      "notas": "nota no hay",
+      "id": 3
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Noche Buena",
+      "email": "edgar@gmail.com",
+      "telefono": "123456789",
+      "notas": "No hay notas",
+      "id": 4
+    },
+    {
+      "nombre": "Mario",
+      "empresa": "CompraMax",
+      "email": "mario12@gmail.com",
+      "telefono": "123456789",
+      "notas": "No tengo dudas",
+      "id": 5
+    }
+  ]
+}
